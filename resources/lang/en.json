@@ -1,0 +1,22 @@
+{
+    "az": "Azərbaycan",
+    "en": "English",
+    "ru": "Русский",
+    "dashboard": "Dashboard",
+    "admins": "Admins",
+    "roles": "Roles",
+    "permissions": "Permissions",
+    "create": "Create",
+    "name": "Name",
+    "email": "Email",
+    "role": "Role",
+    "actions": "Actions",
+    "login":"Login",
+    "username":"Username",
+    "password":"Password",
+    "guard-name": "Guard name",
+    "save": "Save",
+    "notfound-message": "The page you requested was not found!",
+    "settings": "Settings",
+    "content": "Content"
+}

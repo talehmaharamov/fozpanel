@@ -1,0 +1,24 @@
+{
+    "az": "Azərbaycan",
+    "en": "English",
+    "ru": "Русский",
+    "dashboard": "Ana səhifə",
+    "admins": "İdarəçilər",
+    "roles":"Rollar",
+    "permissions": "İcazələr",
+    "create": "Əlavə et",
+    "save": "Yadda saxla",
+    "name": "Ad",
+    "email": "Email",
+    "role": "Rol",
+    "actions": "Hərəkətlər",
+    "login":"Daxil ol",
+    "username":"Istifadəçi adı",
+    "password":"Şifrə",
+    "forgot-password":"Çifrənizi unutmusunuz?",
+    "guard-name": "Mühafizə adı",
+    "notfound-message": "İstədiyiniz səhifə tapılmadı!",
+    "settings": "Tənzimləmələr",
+    "content": "Məzmun"
+
+}
